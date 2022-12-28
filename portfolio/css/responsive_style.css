@@ -1,0 +1,58 @@
+@media(max-width:1024px) {
+	.skills-section .container .box {
+
+		width: auto;
+
+	}
+
+}
+
+@media(max-width:991px) {
+
+	
+
+
+	.navigation-wrap {
+		text-align: center;
+		background-color: #272630;
+
+	}
+
+	.navigation-wrap .navbar-link {
+		line-height: 1.875rem;
+
+	}
+
+
+}
+
+@media(max-width:767px) {}
+
+
+@media(max-width:400px) {
+
+
+	.top-banner .container .text .mt-4 .main-btn {
+		font-size: 0.8rem;
+		align-items: center;
+		/* width:auto; */
+	}
+
+	.top-banner .container .text .mt-4 .white-btn {
+		font-size: 0.8rem;
+		align-items: center;
+
+	}
+
+
+
+	.form-input {
+		font-size: 1rem;
+	}
+
+	.contact-form h3 {
+		font-size: 1.2rem;
+	}
+
+
+}
